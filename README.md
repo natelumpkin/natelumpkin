@@ -2,7 +2,7 @@
 
 I'm a full-stack software developer with training in Javascript, Python, React, and Redux. My most recent project and main focus right now is a clone of popular question-asking site Stack Overflow, where users can find trustworthy solutions to programming-related problems. I'm looking for opportunities to learn and continue developing my skills and learn new languages, libraries, and frameworks.
 
-In my personal life, I'm a big fan of tabletop roleplaying -- I've led a continuous group of players for over a decade through a hand-crafted world with a custom ruleset based on Dungeons and Dragons. I'm a fiction writer -- I've completed a thesis collection of short stories in my time at UNC Chapel Hill, and a few self-produced zines in the time since. And I'm a powerlifter -- I train four times a week under a evidence-based training program.
+In my personal life, I'm a big fan of tabletop roleplaying -- I've led a continuous group of players for over a decade through a hand-crafted world with a custom ruleset based on Dungeons and Dragons. I'm a fiction writer -- I've completed a thesis collection of short stories in my time at UNC Chapel Hill, and a few self-produced zines in the time since. And I'm a powerlifter -- I train four times a week under an evidence-based training program.
 
 Additional skills: HTML5 - CSS3 - Express - Flask - SQL - SQLAlchemy - Sequelize - Git - Version Control - OOP - Agile - SCRUM methodologies - Pair Programming - Team Collaboration - Strength-Based Communication
 
